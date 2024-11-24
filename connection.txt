@@ -1,0 +1,2 @@
+$conn = mysql connect($dbservername,$dbusername,$dbpassword,$dbname);
+mysqli close($conn);
